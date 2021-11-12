@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[run method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+    <line>
+      <![CDATA[gun method]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-20T12:42:09 IST" name="Default suite" finished-at="2021-10-20T12:42:09 IST" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2021-10-20T12:42:09 IST" name="Default test" finished-at="2021-10-20T12:42:09 IST" duration-ms="123">
+      <class name="testng.FlagOfTestNG">
+        <test-method signature="run()[pri:1, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="run" finished-at="2021-10-20T12:42:09 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[run method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+        <test-method signature="gun()[pri:3, instance:testng.FlagOfTestNG@1677d1]" started-at="2021-10-20T12:42:09 IST" name="gun" finished-at="2021-10-20T12:42:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[gun method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gun -->
+      </class> <!-- testng.FlagOfTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
